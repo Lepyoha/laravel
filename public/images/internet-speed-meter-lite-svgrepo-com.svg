@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   width="677.96606"
+   height="877.96613"
+   viewBox="0 0 40.677964 52.677968"
+   fill="#000000"
+   stroke="#000000"
+   stroke-width="2.88"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="internet-speed-meter-lite-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.295"
+     inkscape:cx="340.67797"
+     inkscape:cy="444.0678"
+     inkscape:window-width="1680"
+     inkscape:window-height="979"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0"
+     transform="translate(-3.661017,2.6440678)" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     transform="translate(-3.661017,2.6440678)" />
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="translate(-3.661017,2.6440678)">
+    <defs
+       id="defs6">
+      <style
+         id="style4">.a{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}</style>
+    </defs>
+    <path
+       class="a"
+       d="m 40.5,5.5 h -33 a 2,2 0 0 0 -2,2 v 33 a 2,2 0 0 0 2,2 h 33 a 2,2 0 0 0 2,-2 v -33 a 2,2 0 0 0 -2,-2 z"
+       id="path8" />
+    <path
+       class="a"
+       d="M 32.1645,32.9456 V 15.1479"
+       id="path10" />
+    <path
+       class="a"
+       d="m 38,22.9637 -5.8355,-7.9093 -5.8356,7.9093"
+       id="path12" />
+    <path
+       class="a"
+       d="M 15.8355,15.0544 V 32.8521"
+       id="path14" />
+    <path
+       class="a"
+       d="M 21.6711,25.0363 15.8355,32.9456 10,25.0363"
+       id="path16" />
+  </g>
+</svg>

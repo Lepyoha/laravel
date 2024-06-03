@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="579.66107"
+   height="647.45758"
+   viewBox="0 0 15.216103 16.995762"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="tv-mode-svgrepo-com.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.295"
+     inkscape:cx="252.54237"
+     inkscape:cy="301.69492"
+     inkscape:window-width="1680"
+     inkscape:window-height="979"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     transform="translate(0.1525424,2.6864407)"
+     id="g8">
+    <path
+       d="m 2.4927884,0.53409401 9.9999996,-0.0360583 c 1.104563,-0.003983 2.003216,0.88821299 2.007199,1.99277539 9e-6,0.0024 1.3e-5,0.00481 1.3e-5,0.00721 V 7.5 c 0,1.1045695 -0.89543,2 -2,2 h -10 c -1.1045695,0 -2,-0.8954305 -2,-2 V 2.534081 C 0.5,1.4323268 1.3910413,0.53806672 2.4927884,0.53409401 Z"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path2" />
+    <path
+       d="M 9.4666667,4.6 6.8,2.6 C 6.5790861,2.4343146 6.2656854,2.4790861 6.1,2.7 6.0350889,2.7865481 6,2.8918149 6,3 v 4 c 0,0.2761424 0.2238576,0.5 0.5,0.5 0.1081851,0 0.2134519,-0.035089 0.3,-0.1 l 2.6666667,-2 c 0.2209139,-0.1656854 0.2656854,-0.4790861 0.1,-0.7 -0.028427,-0.037903 -0.062097,-0.071573 -0.1,-0.1 z"
+       fill="#000000"
+       fill-rule="nonzero"
+       id="path4" />
+    <path
+       d="M 2.464,11.5 H 12.5"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path6" />
+  </g>
+</svg>
